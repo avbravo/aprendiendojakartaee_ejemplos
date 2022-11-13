@@ -1,2 +1,2 @@
-# jmoordb-corebookexamples
-Ejemplos del libro de jmoordb-core
+# Aprendiendo Jakarta EE
+Ejemplos del libro de Aprendiendo Jakarta EE
